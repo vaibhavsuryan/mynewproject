@@ -1,2 +1,2 @@
 This is my first git file..
-Now I got an idea about git
+Now I got an idea about git 
